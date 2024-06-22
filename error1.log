@@ -1,0 +1,32 @@
+script.js:102 Uncaught (in promise) ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at script.js:22:5
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)
+127.0.0.1/:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)
+script.js:102 Uncaught ReferenceError: linkExit is not defined
+    at update (script.js:102:9)
+    at SVGGElement.toggleChildren (script.js:33:9)
+    at SVGGElement.<anonymous> (d3.v7.min.js:2:20686)

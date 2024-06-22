@@ -1,0 +1,163 @@
+[
+  {
+    "valor": "homo video ludens",
+    "nivel": 0,
+    "subnodos": [
+      {
+        "valor": "gamefera",
+        "nivel": 1,
+        "subnodos": []
+      },
+      {
+        "valor": "Primer nivel (cómo) ",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Windor McCay",
+            "nivel": 2,
+            "subnodos": []
+          },
+          {
+            "valor": "Slaw Lee",
+            "nivel": 2,
+            "subnodos": []
+          },
+          {
+            "valor": "Alan More",
+            "nivel": 2,
+            "subnodos": []
+          },
+          {
+            "valor": "Frank Miller",
+            "nivel": 2,
+            "subnodos": []
+          }
+        ]
+      },
+      {
+        "valor": "Fenómeno social",
+        "nivel": 1,
+        "subnodos": []
+      },
+      {
+        "valor": "1960 pop art",
+        "nivel": 1,
+        "subnodos": []
+      },
+      {
+        "valor": "Video juegos",
+        "nivel": 1,
+        "subnodos": []
+      },
+      {
+        "valor": "Ludólogos",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Narratólogos",
+            "nivel": 2,
+            "subnodos": []
+          }
+        ]
+      },
+      {
+        "valor": "Oliver Pérez ",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Análisi de la significancia del video juego",
+            "nivel": 2,
+            "subnodos": []
+          }
+        ]
+      },
+      {
+        "valor": "Juegos y video juegos",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Semiótica",
+            "nivel": 2,
+            "subnodos": [
+              {
+                "valor": "Textos interactivos",
+                "nivel": 3,
+                "subnodos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "valor": "frasca",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Ludologists: love stories too",
+            "nivel": 2,
+            "subnodos": []
+          },
+          {
+            "valor": "notes from a debate that never took place",
+            "nivel": 2,
+            "subnodos": []
+          }
+        ]
+      },
+      {
+        "valor": "Matbo Bittani",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Patafísico",
+            "nivel": 2,
+            "subnodos": []
+          },
+          {
+            "valor": "Catarsis",
+            "nivel": 2,
+            "subnodos": []
+          }
+        ]
+      },
+      {
+        "valor": "Henry Lowood",
+        "nivel": 1,
+        "subnodos": [
+          {
+            "valor": "Cultura de la replicación, acción y visión",
+            "nivel": 2,
+            "subnodos": []
+          },
+          {
+            "valor": "Triada",
+            "nivel": 2,
+            "subnodos": [
+              {
+                "valor": "dispositivo funcional",
+                "nivel": 3,
+                "subnodos": []
+              },
+              {
+                "valor": "emociones",
+                "nivel": 3,
+                "subnodos": [
+                  {
+                    "valor": "acción",
+                    "nivel": 4,
+                    "subnodos": []
+                  },
+                  {
+                    "valor": "representación",
+                    "nivel": 4,
+                    "subnodos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

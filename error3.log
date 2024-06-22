@@ -1,0 +1,4 @@
+d3.v7.min.js:2 Recuperar terminó de cargarse: GET "http://127.0.0.1:8080/homo_ludens_2.json".
+t.json @ d3.v7.min.js:2
+(anónimas) @ script.js:13
+127.0.0.1/:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
